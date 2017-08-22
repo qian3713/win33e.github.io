@@ -61,6 +61,7 @@ zh: &zh
   search_placeholder: '搜索...'
   search_results: '搜索结果'
   share_post: '分享本文：'
+  
   show: '显示'
   show_author: '显示作者'
   show_comments: '显示评论'
